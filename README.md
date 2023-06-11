@@ -29,10 +29,10 @@ Projeto de software descontinuado.
 * Bloqueia os arquivos contra a exclusão 
 
 ### Links
-[Repository](https://github.com/AlainMota9/Remove_Atalhos_2.0)
+[Repository](https://github.com/AlainMota9/Protecao_Pasta)
 
 ### Controle de versão
-2.0.0.0
+1.0.0.0
 
 ### Autor
 Alain L. Mota: [@AlainMota](https://github.com/AlainMota9)
