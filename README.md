@@ -29,8 +29,10 @@ Projeto de software descontinuado.
 * Bloqueia os arquivos contra a exclusão 
 
 ### Links
-[Repository](https://github.com/AlainMota9/Protecao_Pasta)
-[Facebook](https://www.facebook.com/alain.mota.3/)
+* [Repository](https://github.com/AlainMota9/Protecao_Pasta)
+* [Facebook](https://www.facebook.com/alain.mota.3/)
+* [Lattes](http://lattes.cnpq.br/9940114103826916)
+* [linkedin](www.linkedin.com/in/alain-mota-a61319117)
 
 ### Controle de versão
 1.0.0.0
