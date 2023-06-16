@@ -1,6 +1,6 @@
 ## Proteção de Pasta
 
-![logo](icone.png)
+![logo](Imagens/icone.png)
 
 Este projeto foi desenvolvido com o objetivo de criar um pasta projegida por senha, para garantir que os arquivos não sejam violados por curiosos, ocultando e evitando serem apagados por engano.
 
@@ -20,9 +20,9 @@ Aqui estão as tecnologias utilizadas neste projeto.
 Projeto de software descontinuado.
 
 ### Interface
-![interface](interface_login.png)
-![interface](interface_ativacao.png)
-![interface](insterface_desistalar.png)
+![interface](Imagens/interface_login.png)
+![interface](Imagens/interface_ativacao.png)
+![interface](Imagens/insterface_desistalar.png)
 
 ### Recursos
 * Cria um pasta criptografada
@@ -42,5 +42,5 @@ Alain L. Mota: [@AlainMota](https://github.com/AlainMota9)
 
 #### Obrigado pela Visita!
 
-![logo](logo.png)
+![logo](Imagens/logo.png)
 
